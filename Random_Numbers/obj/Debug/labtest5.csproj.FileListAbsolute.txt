@@ -1,0 +1,10 @@
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\bin\Debug\labtest5.exe.config
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\bin\Debug\labtest5.exe
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\bin\Debug\labtest5.pdb
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.csprojAssemblyReference.cache
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.Form1.resources
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.Properties.Resources.resources
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.csproj.GenerateResource.cache
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.exe
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.pdb
+C:\Users\Navien Sanggaran\source\repos\labtest5\labtest5\obj\Debug\labtest5.csproj.CoreCompileInputs.cache
